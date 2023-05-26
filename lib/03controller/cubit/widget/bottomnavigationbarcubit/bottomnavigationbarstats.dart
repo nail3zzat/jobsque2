@@ -1,0 +1,14 @@
+class BottomNavigationBarStates{}
+
+
+
+
+class InitialBottomNavigationBarState extends BottomNavigationBarStates{}
+
+class EmitBottomNavigationBarState extends BottomNavigationBarStates{}
+class FirstBottomNavigationBarState extends BottomNavigationBarStates{}
+class SecondBottomNavigationBarState extends BottomNavigationBarStates{}
+class ThirdBottomNavigationBarState extends BottomNavigationBarStates{}
+class FourthBottomNavigationBarState extends BottomNavigationBarStates{}
+class FifthBottomNavigationBarState extends BottomNavigationBarStates{}
+
